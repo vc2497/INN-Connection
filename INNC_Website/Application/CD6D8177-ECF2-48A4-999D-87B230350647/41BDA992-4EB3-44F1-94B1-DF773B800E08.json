@@ -1,0 +1,129 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 1,
+            "green": 1,
+            "red": 1
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Lato-Regular",
+              "size": 20
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 3,
+            "paragraphSpacing": 1.100000023841858
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 1333,
+        "location": 0
+      }
+    ],
+    "string": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tincidunt eu augue id viverra. Pellentesque et lacus egestas, efficitur tortor sit amet, consectetur enim. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vestibulum dictum lacus et vestibulum sodales. Etiam faucibus porta luctus. Cras non arcu ultrices, sodales dolor et, fringilla odio. Maecenas orci nibh, tempus a suscipit sed, facilisis vel eros. Sed aliquet quam quis turpis ornare, nec porta risus ullamcorper. In hac habitasse platea dictumst. Donec quis quam eu mi tincidunt blandit et sit amet augue. Nunc pellentesque arcu non tempor ullamcorper. Fusce eget volutpat odio.\n\nNam malesuada justo sit amet augue aliquet, in sodales mi malesuada. Vivamus hendrerit facilisis lacus, non molestie justo aliquet eu. Sed posuere eros sit amet nisi interdum consectetur. Curabitur ut velit sed nisl maximus tempor vel eget lectus. Morbi et tempus erat. Proin tristique, justo et tempor convallis, nisi odio placerat turpis, a varius nisl enim sit amet velit. Integer sit amet ultricies mauris. Suspendisse cursus erat nec semper consequat. Donec vitae tellus vitae diam dapibus malesuada at auctor nibh. Fusce neque purus, interdum ac metus quis, gravida eleifend odio. Vestibulum quis ullamcorper ipsum. Praesent sed pretium ex."
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "41BDA992-4EB3-44F1-94B1-DF773B800E08",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "23B27651-83E3-43AC-A9C5-E2438460747E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1B37BF12-1F36-47EB-90F7-93E19C6DB090",
+    "height": 466,
+    "width": 673,
+    "x": 405,
+    "y": 6095
+  },
+  "glyphBounds": "{{0, 5}, {673, 453}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Lorem ipsum dolor si",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "140CA9DF-4773-4813-8904-8666DED55A1C",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "CD06BDA6-3995-4F5B-867C-CA6090BBE247",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Lato-Regular",
+            "size": 20
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 3,
+          "paragraphSpacing": 1.100000023841858
+        },
+        "textStyleVerticalAlignmentKey": 0
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "textBehaviour": 2
+}

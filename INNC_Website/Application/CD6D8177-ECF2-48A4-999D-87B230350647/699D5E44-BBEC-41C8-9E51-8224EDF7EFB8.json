@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "699D5E44-BBEC-41C8-9E51-8224EDF7EFB8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8925D077-E78A-4905-AA2E-677FF3B62E1F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "364DB6B9-08DA-4C5A-9F4F-F5C2D52B8CD2",
+    "height": 90,
+    "width": 305,
+    "x": 551,
+    "y": 15696
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "DonationTab",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "35FEAE12-812A-4F9F-8C31-4C72EF6A444C",
+      "overrideName": "F29BAAA7-5209-4AA8-87B6-66C851692E9D_stringValue",
+      "value": "DONATE "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3F2F2954-9C7D-40A5-B6C3-74695D512E8E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "84373A3D-2635-40BF-B030-E7E4987F9010",
+  "verticalSpacing": 0
+}

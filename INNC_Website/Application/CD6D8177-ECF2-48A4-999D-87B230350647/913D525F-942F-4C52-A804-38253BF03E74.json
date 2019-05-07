@@ -1,0 +1,79 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "913D525F-942F-4C52-A804-38253BF03E74",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 280,
+    "width": 884,
+    "x": 167,
+    "y": 15687
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Footer",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "83D9B82D-4491-41DA-8ACD-D628D041E1CB",
+      "overrideName": "522AC02D-CA5F-4119-9357-866C3682FCDE_stringValue",
+      "value": "Sign up for Newsletter"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D3CEB171-F96E-4603-8409-8E3D696B8D96",
+      "overrideName": "4C46B377-F547-48C3-A039-E2C232B062A3_stringValue",
+      "value": "Volunteer"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A9E9EC48-746C-48DB-8862-4218A0D144C3",
+      "overrideName": "EEF0885E-C058-4BA1-A74A-E3241907597F_stringValue",
+      "value": "About Us"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3331DADA-E164-46AC-909D-E62EA2B26271",
+      "overrideName": "A5D202DC-3536-4E2F-8CB9-B36B26BA38B0_stringValue",
+      "value": "Contact Us"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "542B8A6E-FB1D-4722-8B40-ECF03E1D4EC0",
+      "overrideName": "49D34836-F4FB-4AE2-901F-5C0D49877322_stringValue",
+      "value": "Facebook"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8363A5CA-0088-4ED1-9704-B2621A27E194",
+  "verticalSpacing": 0
+}

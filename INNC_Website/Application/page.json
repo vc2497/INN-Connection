@@ -1,0 +1,111 @@
+{
+  "_class": "page",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "501FD33A-840D-4279-B868-177D7247BAAE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "CD6D8177-ECF2-48A4-999D-87B230350647"
+    },
+    {
+      "class": "rectangle",
+      "id": "853EAEE4-E777-42F0-91DE-DDF7833B1198"
+    },
+    {
+      "class": "rectangle",
+      "id": "9AC30944-F2E6-40A4-8BB7-DA9C9E0488BE"
+    },
+    {
+      "class": "rectangle",
+      "id": "EFF6657C-3963-4CCC-98EE-46517AD3931E"
+    },
+    {
+      "class": "rectangle",
+      "id": "F0DED59E-AA92-454E-B712-3D7816A52F94"
+    },
+    {
+      "class": "rectangle",
+      "id": "BED49D9C-E0D6-4641-92B5-A76916A77421"
+    },
+    {
+      "class": "rectangle",
+      "id": "A06F11BC-B291-4C5A-AE09-46457ED1A8A5"
+    },
+    {
+      "class": "rectangle",
+      "id": "64857421-A831-436A-BE8F-9EF3321FADBA"
+    },
+    {
+      "class": "rectangle",
+      "id": "79EF1717-38D9-4FD5-ADE1-4BA593DFA2B1"
+    },
+    {
+      "class": "rectangle",
+      "id": "FC9D57BD-6DAC-456B-87AA-DE3BB862E1C3"
+    },
+    {
+      "class": "rectangle",
+      "id": "B7348D11-A276-4207-A75E-BFE4D74044A7"
+    },
+    {
+      "class": "rectangle",
+      "id": "D53CDAB6-3329-488C-B700-C22564FA5127"
+    },
+    {
+      "class": "rectangle",
+      "id": "D1DB7A89-2C46-4E36-8516-7239195AE2E0"
+    }
+  ],
+  "name": "Application",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
